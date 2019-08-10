@@ -1,0 +1,6 @@
+﻿  Vec2.cpp
+  Vec3.cpp
+  vectorlib.cpp
+  Generating Code...
+  LINK : E:\VectorThing\vectorlib1\vectorlib\vectorlib\Debug\vectorlib.exe not found or not built by the last incremental link; performing full link
+  vectorlib.vcxproj -> E:\VectorThing\vectorlib1\vectorlib\vectorlib\Debug\vectorlib.exe
